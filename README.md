@@ -10,6 +10,8 @@ Since C and C++ share some similarities, the only difference in the solutions is
 solutions will be done using classes and objects. Additionally instead of arrays,
 the C++ solutions will also be done using vectors.  
 
+*This is a work in progress!*  
+
 **Sorting Algorithms in C**    
 
 Average Time Complexities     
