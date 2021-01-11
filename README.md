@@ -1,3 +1,5 @@
+![image](tcomplexities.png)  
+
 # Sorting Algorithms in C  
 
 **Average Time Complexities**   
@@ -22,4 +24,5 @@
 
 - GeeksForGeeks - [Website](https://www.geeksforgeeks.org/sorting-algorithms/)    
 - GeeksForGeeks Time Complexities - [Website](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)  
-- Competitive Programming - [EBook](https://cses.fi/book/index.php)    
+- Competitive Programming - [EBook](https://cses.fi/book/index.php)  
+- Image from GeeksForGeeks - [link](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)  
