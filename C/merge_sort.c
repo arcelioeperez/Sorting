@@ -1,3 +1,5 @@
+/* Reference: https://www.geeksforgeeks.org/merge-sort/
+ */
 #include <stdio.h>
 
 void merge(int *arr, int l, int m, int r) { 
@@ -60,7 +62,7 @@ void merge_sort(int *arr, int l, int r) {
 }
 
 int main() { 
-	int arr [] = {12,11,13,5,6,7};
+	int arr [] = {33, 77, 8, 9, 0, 3 , 20};
 	int len = sizeof(arr)/sizeof(arr[0]); 
 
 	merge_sort(arr,0, len - 1); 
