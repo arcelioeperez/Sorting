@@ -18,7 +18,7 @@
 - Selection Sort O(n^2)     
 - Bubble Sort O(n^2)     
 
-**Citation:**    
+# Citation:      
 
 - GeeksForGeeks - [Website](https://www.geeksforgeeks.org/sorting-algorithms/)    
 - GeeksForGeeks Time Complexities - [Website](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)  
