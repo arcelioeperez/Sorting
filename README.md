@@ -6,9 +6,9 @@ There are many variations and more sorting algorithms, but I decided to present
 the following as an overview. If you would like to learn or know about other
 algorithms please refer to the [Citation](#Citation).   
 
-# Sorting Algorithms in C  
+**Sorting Algorithms in C**    
 
-**Average Time Complexities**   
+Average Time Complexities     
  
 - Insertion Sort O(n^2)      
 - Merge Sort O(n log n)    
@@ -16,9 +16,9 @@ algorithms please refer to the [Citation](#Citation).
 - Selection Sort O(n^2)     
 - Bubble Sort O(n^2)     
 
-# Sorting Algorithms in C++    
+**Sorting Algorithms in C++**   
 
-**Average Time Complexities**   
+Average Time Complexities   
  
 - Insertion Sort O(n^2)      
 - Merge Sort O(n log n)    
@@ -26,7 +26,7 @@ algorithms please refer to the [Citation](#Citation).
 - Selection Sort O(n^2)     
 - Bubble Sort O(n^2)     
 
-# Citation:      
+**Citation:**   
 
 - GeeksForGeeks - [Website](https://www.geeksforgeeks.org/sorting-algorithms/)    
 - GeeksForGeeks Time Complexities - [Website](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)  
