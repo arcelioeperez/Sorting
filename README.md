@@ -4,7 +4,11 @@
 
 There are many variations and more sorting algorithms, but I decided to present
 the following as an overview. If you would like to learn or know about other
-algorithms please refer to the [Citation](#Citation).   
+algorithms please refer to the [Citation](#Citation).  
+
+Since C and C++ share some similarities the only difference is that the C++
+solutions will be done using classes and objects - additionally instead of arrays
+the C++ solutions will also be done using vectors.  
 
 **Sorting Algorithms in C**    
 
