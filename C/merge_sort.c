@@ -1,5 +1,5 @@
-/* Reference: https://www.geeksforgeeks.org/merge-sort/
- */
+// Reference: https://www.geeksforgeeks.org/merge-sort/
+ 
 #include <stdio.h>
 
 void merge(int *arr, int l, int m, int r) { 
