@@ -64,8 +64,9 @@ void merge_sort(int *arr, int l, int r) {
 int main() { 
 	int arr [] = {33, 77, 8, 9, 0, 3 , 20};
 	int len = sizeof(arr)/sizeof(arr[0]); 
-
-	merge_sort(arr,0, len - 1); 
+	int low = 0; 
+	int high = len - 1; 
+	merge_sort(arr, low, high); 
 
 	for (int i = 0; i < len; i++){ 
 		printf("%d\n", arr[i]); 
