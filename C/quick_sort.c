@@ -26,11 +26,11 @@ int partition(int *arr, int low, int high) {
 
 void quick_sort(int *arr, int low, int high) { 
 	if (low < high) { 
-		int index = partition(arr, low, high); 
+		int ind = partition(arr, low, high); 
 
 		//sorting before partitions 
-		quick_sort(arr, low, index-1); 
-		quick_sort(arr, index + 1, high); 
+		quick_sort(arr, low, ind-1); 
+		quick_sort(arr, ind + 1, high); 
 	} 
 
 }
