@@ -16,11 +16,11 @@ the C++ solutions will also be done using vectors.
 
 Average Time Complexities     
  
-- [Insertion Sort O(n^2)](C/insertion_sort.c)        
+- [Insertion Sort O(n<sup>2</sup>)](C/insertion_sort.c)        
 - [Merge Sort O(n log n)](C/merge_sort.c)      
 - [Quick Sort O(n log n)](C/quick_sort.c)   
-- [Selection Sort O(n^2)](C/selection_sort.c)      
-- [Bubble Sort O(n^2)](C/bubble_sort.c)     
+- [Selection Sort O(n<sup>2</sup>)](C/selection_sort.c)      
+- [Bubble Sort O(n<sup>2</sup>)](C/bubble_sort.c)     
 
 Using the C Standard library    
      
@@ -30,11 +30,11 @@ Using the C Standard library
 
 Average Time Complexities   
  
-- Insertion Sort O(n^2)      
+- Insertion Sort O(n<sup>2</sup>)      
 - Merge Sort O(n log n)    
 - Quick Sort O(n log n)    
-- Selection Sort O(n^2)     
-- Bubble Sort O(n^2)     
+- Selection Sort O(n<sup>2</sup>)     
+- Bubble Sort O(n<sup>2</sup>)     
 
 #### Citation:   
 
